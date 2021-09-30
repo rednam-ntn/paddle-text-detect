@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "path": "./PaddleOCR"
+        },
+        {
+            "name": "root",
+            "path": "."
+        },
+    ]
+}
